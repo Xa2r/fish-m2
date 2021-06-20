@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2020 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+  <head>
+    <!-- Fonts -->
+    <link rel="stylesheet" src="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" type="text/css" src_type="url"/>
+    <link src="https://fonts.googleapis.com/css2?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css" src_type="url"/>
+  </head>
+</page>
