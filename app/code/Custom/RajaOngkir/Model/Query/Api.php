@@ -40,7 +40,7 @@ class Api
             'weight'          => $weight,
             'courier'         => $courier,
         ];
-        $key = 'xx';
+        $key = 'e7cee2107cd7700d5d6c24e824ca5bec';
 
         //$apiCaller = $this->_httpClient->create();
         $ongkir = $this->apiCaller('https://api.rajaongkir.com/starter/cost', \Zend_Http_Client::POST, $params, $key);
